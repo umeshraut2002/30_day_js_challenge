@@ -21,3 +21,7 @@ const obj = {...googleDev, ...newGoogleFeature};
 
 console.log(obj);
 
+console.log(Object.keys(googleDev));
+
+console.log(googleDev.hasOwnProperty("employeeName"));
+
