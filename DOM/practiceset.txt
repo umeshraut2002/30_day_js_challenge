@@ -1,0 +1,40 @@
+Exercise 1:
+Basic DOM Manipulation 1. *Create a simple HTML page* with a paragraph element
+and a button. 2. *Add a JavaScript script* to the page. 3. **Use the
+getElementById method** to select the paragraph element. 4. *Create a click
+event listener* for the button. 5. *When the button is clicked,* change the text
+content of the paragraph to "Hello, world!". 
+
+Exercise 2: Selecting Elements
+by Class 1. *Create an HTML page* with multiple paragraph elements, each with
+the same class name. 2. **Use the getElementsByClassName method** to select all
+paragraph elements with that class. 3. *Iterate over the NodeList* and change
+the background color of each paragraph to a random color. 
+
+Exercise 3:
+Selecting Elements by Attribute 1. *Create an HTML page* with multiple elements,
+each with a specific attribute (e.g., data-id). 2. **Use the querySelectorAll
+method** to select all elements with that attribute. 3. *Iterate over the
+NodeList* and change the content of each element based on its attribute value.
+
+Exercise 4: Manipulating Element Attributes 1. *Create an HTML page* with
+an image element. 2. **Use the getAttribute and setAttribute methods** to get
+and set the src attribute of the image. 3. *Create a button* that, when clicked,
+changes the image source to a different image. 
+
+Exercise 5: Working with
+Inner HTML and Text Content 1. *Create an HTML page* with a div element. 2.
+**Use the innerHTML property** to add HTML content to the div. 3. **Use the
+textContent property** to get and set the plain text content of the div.
+
+
+Exercise 6: Converting NodeList to Array 1. *Create an HTML page* with multiple
+elements. 2. **Use the querySelectorAll method** to select all elements. 3.
+*Convert the NodeList to an array* using the Array.from method. 4. *Perform
+array operations* on the elements (e.g., filtering, mapping). 
+
+Exercise 7:
+Updating List Items from a Database 1. *Create a simple database* (e.g., a JSON
+file) containing a list of items. 2. *Fetch the data from the database* using
+JavaScript (e.g., using fetch). 3. *Create an HTML list* and dynamically
+populate it with the data from the database using DOM manipulation. 

@@ -6,6 +6,6 @@ const merchantPay = {
     day3: 434262
 }
 
-const {day3: d} = merchantPay;
+const {day3} = merchantPay;
 
 console.log(d);
