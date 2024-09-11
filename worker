@@ -1,0 +1,7 @@
+const crypto = require('crypto');
+
+const array = new Uint8Array(16);
+
+crypto.webcrypto.getRandomValues(array);
+
+console.table(array);
